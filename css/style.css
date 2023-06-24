@@ -2,3 +2,8 @@ p{
     background-color: aqua;
     color: azure;
 }
+a{
+    text-decoration: none;
+    background-color: #09f;
+    color: #fff;
+}
